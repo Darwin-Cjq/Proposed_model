@@ -1,4 +1,5 @@
 """
+
 the baseline is encoder and decoder
 "encoder" contains 5 blocks, each block comprise  one conv2d module + batch normalizaiton + activation function
 "middle layer" is the GLU
